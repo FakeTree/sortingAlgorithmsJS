@@ -1,0 +1,26 @@
+Simple Sort
+	selectionSort
+	insertionSort
+	cocktailShakerSort
+Efficient Sort
+	quickSort
+	mergeSort
+	heapSort
+	shellSort
+Bubble Sort & VArients
+	bubbleSort
+	combSort
+Distribution Sort
+	radixSort(LSD)
+	radixSort(MSD)
+	bucketSort
+	countingSort
+StupidSort
+	bogoSort
+	gnomeSort
+Cocurrent Sort
+	bitonicSort
+Hybrid Sort
+	blockSort
+
+

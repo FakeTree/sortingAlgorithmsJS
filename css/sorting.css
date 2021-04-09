@@ -1,0 +1,38 @@
+*{
+    top:0;
+    left:0;
+    margin:0;
+    padding:0;
+}
+
+#playArea{
+    width: 100vw;
+    height: 100vh;
+    background-color: #282828;
+}
+
+body{
+    overflow: hidden;
+}
+
+#sortingSpace{
+    justify-content: center;
+    width:70vw;
+    height: 50vh;
+    margin-left: 15vw;
+    padding-top: 0vh;
+}
+
+canvas {
+    height: 100%;
+    width: 100%;
+    
+    display: block;
+    -webkit-transform: scaleY(-1) !important;
+    transform: scaleY(-1) !important;
+  }
+
+.scalingElement{
+    transition: 0.2s;
+}
+
